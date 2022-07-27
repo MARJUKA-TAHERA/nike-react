@@ -1,0 +1,19 @@
+
+.bg-color{
+    background: #FFF9F4;
+}
+.orange-color{
+    color: #FA804C;
+}
+.button-color{
+   background: linear-gradient(180deg, #6F3DF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: white;
+}
+.text-size{
+    font-size: 70px;
+}
+.img-bg{
+    background: #F1F1F1;
+    border-radius: 20px;
+}
